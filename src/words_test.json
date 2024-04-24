@@ -1,0 +1,18 @@
+[
+  {
+    "answer": "AA",
+    "clues": ["1 Clue 1"]
+  },
+  {
+    "answer": "BB",
+    "clues": ["2 Clue 1", "2 Clue 2", "2 Clue 3"]
+  },
+  {
+    "answer": "CC",
+    "clues": ["3 Clue 1", "3 Clue 2", "3 Clue 3", "3 Clue 4", "3 Clue 5"]
+  },
+  {
+    "answer": "DD",
+    "clues": []
+  }
+]

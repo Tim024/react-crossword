@@ -1,0 +1,700 @@
+[
+  {
+    "answer": "ITU",
+    "clues": [
+      "An organization responsible for the allocation of global satellite orbit positions, ensuring non-interference between satellites.",
+      "A United Nations specialized agency for information and communication technologies.",
+      "Oversees global technical standards to ensure seamless interconnectivity of telecommunication networks."
+    ]
+  },
+  {
+    "answer": "SkyPerfectJSAT",
+    "clues": [
+      "Asia's largest satellite operator, offering multi-channel pay TV and satellite communications services."
+    ]
+  },
+  {
+    "answer": "Galileo",
+    "clues": [
+      "Europe's global navigation satellite system.",
+      "First spacecraft to orbit Jupiter, and a famous Italian astronomer."
+    ]
+  },
+  {
+    "answer": "Telesat",
+    "clues": [
+      "Canadian-based satellite operator, providing reliable and secure LEO satellite communications solutions.",
+      "Canadian satellite operator, aiming high with its LEO satellite constellation for global internet coverage."  
+    ]
+  },
+  {
+    "answer": "Astra1A",
+    "clues": [
+      "Launched in December 1988, this was Europe's first private satellite by SES, setting a precedent in satellite communications."
+    ]
+  },
+  {
+    "answer": "GovSat1",
+    "clues": [
+      "A satellite launched in partnership with the Luxembourg Government in 2017, providing military and governmental communications."
+    ]
+  },
+  {
+    "answer": "SES17",
+    "clues": [
+      "Launched in October 2021, this Ka-band high-throughput satellite aims to enhance connectivity across the Americas and the Caribbean."
+    ]
+  },
+  {
+    "answer": "Satmed",
+    "clues": [
+      "An eHealth platform developed by SES to improve public health in emerging and developing countries, especially in remote areas."
+    ]
+  },{
+    "answer": "YahLive",
+    "clues": [
+      "Joint venture between SES and a Middle East satellite operator, announced in 2009, targeting direct-to-home TV services."
+    ]
+  },
+  {
+    "answer": "AsiaSat",
+    "clues": [
+      "Hong Kong-based satellite operator in which SES acquired a significant stake in 1999, marking its initial venture into the Asian market."
+    ]
+  },
+  {
+    "answer": "SES8",
+    "clues": [
+      "Noteworthy for being the first geostationary satellite launched by SpaceX in December 2013, marking a significant partnership."
+    ]
+  },
+  {
+    "answer": "AdelAlSaleh",
+    "clues": [
+      "Appointed as CEO of SES in 2023, bringing a fresh perspective from the telecoms and IT industries."
+    ]
+  },
+  {
+    "answer": "TSystems",
+    "clues": [
+      "Leading European company where Al-Saleh gained extensive experience before joining SES."
+    ]
+  },
+  {
+    "answer": "Intelsat",
+    "clues": [
+      "Company with which SES discussed a potential merger in 2023, highlighting the trend towards industry consolidation.",
+      "Partnered with SES in a proposal to the FCC regarding C-band spectrum."
+    ]
+  },
+  {
+    "answer": "VirginVoyages",
+    "clues": [
+      "First customer announced by SES for its integrated MEO/LEO solution, aimed at providing connectivity during cruises."
+    ]
+  },
+  {
+    "answer": "Bandwidth",
+    "clues": [
+      "The capacity of a communication channel to transmit data over a specific period, typically measured in bits per second (bps) or hertz (Hz).",
+      "The range of frequencies allocated for transmitting data or signals in a communication system."
+    ]
+  },
+  {
+    "answer": "Uplink",
+    "clues": [
+      "The transmission path from the ground station to a satellite, used to send data and control commands.",
+      "The process of sending data or signals from Earth to a satellite for communication or control purposes."
+    ]
+  },
+  {
+    "answer": "Downlink",
+    "clues": [
+      "The transmission path from a satellite to a ground station, used for broadcasting and data reception",
+      "The process of sending data or signals from a satellite to Earth."
+    ]
+  },
+  {
+    "answer": "Transponder",
+    "clues": [
+      "A device on a satellite that receives, amplifies, and retransmits signals back to Earth, essential for satellite communication"
+    ]
+  },
+  {
+    "answer": "Beamwidth",
+    "clues": [
+      "The angular width of the radiation pattern of an antenna, indicating the coverage area.",
+      "A measure of the angular spread of electromagnetic radiation emitted or received by an antenna."
+    ]
+  },
+  {
+    "answer": "Footprint",
+    "clues": [
+      "The geographical area on the Earth's surface covered by a satellite's signal.",
+      "Defines the service area where a satellite's communications signals can be received effectively.",
+      "The pattern of signal coverage provided by a satellite antenna or transponder."
+    ]
+  },
+  {
+    "answer": "Polarization",
+    "clues": [
+      "The orientation of electromagnetic waves, critical for signal clarity and minimizing interference in satellite communications"
+    ]
+  },
+  {
+    "answer": "Latency",
+    "clues": [
+      "The time delay between when a signal is sent and when it is received in satellite communication systems.",
+      "The time it takes for data to travel from the transmitting station to the receiving station via the satellite link.",
+      "The period of time required for electromagnetic signals to propagate between ground stations and satellites, influenced by the distance traveled and the speed of light."
+    ]
+  },
+  {
+    "answer": "Gain",
+    "clues": [
+      "A measure of the increase in power or intensity of a signal, often used in the context of antennas and amplifiers.",
+      "The measure of amplification achieved by an antenna or satellite dish, typically expressed in decibels (dB)."
+    ]
+  },
+  {
+    "answer": "Attenuation",
+    "clues": [
+      "The reduction in signal strength during transmission, often due to distance or interference.",
+      "Weakening of electromagnetic signals due to absorption, scattering, or reflection in the transmission medium.",
+      "Reduction in the intensity of a signal caused by factors such as distance, obstacles, or interference."
+    ]
+  },
+  {
+    "answer": "RomainBausch",
+    "clues": [
+      "Served as president and CEO of SES from 1995, overseeing its growth into a global satellite industry leader."
+    ]
+  },
+  {
+    "answer": "Collar",
+    "clues": [
+      "Led SES as CEO during pivotal developments, including the launch of the O3b mPOWER satellites and negotiations for a merger with Intelsat."
+    ]
+  },
+  {
+    "answer": "Murdoch",
+    "clues": [
+      "Media mogul whose Sky TV was among Astra's first major customers, leveraging SES's satellite capabilities for broadcasting."
+    ]
+  },
+  {
+    "answer": "Boeing",
+    "clues": [
+      "Aerospace manufacturer responsible for building several of SES's satellites, including parts of the O3b mPOWER constellation."
+    ]
+  },
+  {
+    "answer": "NorthropGrumman",
+    "clues": [
+      "Aerospace and defense technology company that built the GEOStar-3 satellites, SES-18 and SES-19, for SES."
+    ]
+  },
+  {
+    "answer": "Leonardo",
+    "clues": [
+      "Defense contractor from which SES acquired DRS Global Enterprise Solutions, enhancing SES Government Solutions' capabilities."
+    ]
+  },
+  {
+    "answer": "SpaceX",
+    "clues": [
+      "Achieved the first privately funded spacecraft to reach orbit and safely return to Earth.",
+      "Partnered with SES for satellite launches from Cape Canaveral Space Force Station."
+    ]
+  },
+  {
+    "answer": "Azure",
+    "clues": [
+      "Microsoft's cloud platform that entered a partnership for ground station services, enhancing network operations."
+    ]
+  },
+  {
+    "answer": "PrincessCruises",
+    "clues": [
+      "One of the first companies to utilize a hybrid network of MEO and geostationary satellites for cruise connectivity."
+    ]
+  },
+  {
+    "answer": "Gilat",
+    "clues": [
+      "An Israeli company tasked with developing modem platforms for a next-gen satellite communications system.",
+      "This Israeli company has made significant strides in VSAT (Very Small Aperture Terminal) technology, enhancing global connectivity."
+    ]
+  },
+  {
+    "answer": "Starlink",
+    "clues": [
+      "A satellite internet constellation being developed by SpaceX to provide global broadband coverage."
+    ]
+  },
+  {
+    "answer": "Ka",
+    "clues": [
+      "A frequency band in the 26.5-40 GHz range, allowing for high bandwidth data transmission."
+    ]
+  },
+  {
+    "answer": "Ku",
+    "clues": [
+      "A portion of the electromagnetic spectrum between 12 and 18 GHz, commonly employed for satellite TV broadcasting."
+    ]
+  },
+  {
+    "answer": "Betzdorf",
+    "clues": [
+      "A town in Luxembourg, known as a significant hub for satellite and communication technology companies."
+    ]
+  },
+  {
+    "answer": "GEO",
+    "clues": [
+      "Where satellites orbit the Earth at the same rate as the planet's rotation.",
+      "Located approximately 35,786 kilometers above the Earth's equator, enabling constant coverage of a specific area."
+    ]
+  },
+  {
+    "answer": "MEO",
+    "clues": [
+      "Located between 2,000 and 35,786 kilometers above the earth, offering lower latency than GEO satellites."
+    ]
+  },
+  {
+    "answer": "LEO",
+    "clues": [
+      "Characterized by an altitude up to 2,000 kilometers above the Earth's surface."
+    ]
+  },
+  {
+    "answer": "inmarsat",
+    "clues": [
+      "A British satellite telecommunications company, providing global mobile services for maritime, aviation, and land-based users.",
+      "British satellite telecommunications company, providing mobile voice and data services to ships, aircraft, and remote land locations."
+    ]
+  },
+  {
+    "answer": "planet",
+    "clues": [
+      "One was demoted to a dwarf.",
+      "We have eight of them in our solar system.",
+      "A company that operates a constellation of Earth-imaging satellites, capturing high-resolution images of the earth. Pelican is not a bird to them."
+    ]
+  },
+  {
+    "answer": "orbit",
+    "clues": [
+      "A path followed by a satellite around a celestial body."
+    ]
+  },
+  {
+    "answer": "telescope",
+    "clues": [
+      "An instrument used to observe distant objects, not just for pirates.",
+      "Galileo improved this to study the heavens."
+    ]
+  },
+  {
+    "answer": "astronaut",
+    "clues": [
+      "One small step for man, one giant leap for one of these."
+    ]
+  },
+  {
+    "answer": "moon",
+    "clues": [
+      "The maker of tides.",
+      "Where Wallace and Gromit went for a cheese picnic.",
+      "Earth's nightlight."
+    ]
+  },
+  {
+    "answer": "jupiter",
+    "clues": [
+      "The largest planet in our solar system.",
+      "Roman god of thunder.",
+      "Fifth planet from the Sun."
+    ]
+  },
+  {
+    "answer": "venus",
+    "clues": [
+      "Earth's hot sister planet."
+    ]
+  },
+  {
+    "answer": "mars",
+    "clues": [
+      "The god of war.",
+      "A rust-colored rock."
+    ]
+  },
+  {
+    "answer": "neptune",
+    "clues": [
+      "The eighth planet from the Sun."
+    ]
+  },
+  {
+    "answer": "saturn",
+    "clues": [
+      "This planet is famous for its spectacular ring system."
+    ]
+  },
+  {
+    "answer": "cassini",
+    "clues": [
+      "A spacecraft that explored Saturn and its moons, and captured stunning images of the ringed planet."
+    ]
+  },
+  {
+    "answer": "sputnik",
+    "clues": [
+      "The first artificial satellite launched into space in 1957."
+    ]
+  },
+  {
+    "answer": "hubble",
+    "clues": [
+      "A space telescope that has provided stunning images of the universe, named after an astronomer who discovered the rate of expansion of the universe."
+    ]
+  },
+  {
+    "answer": "satellite",
+    "clues": [
+      "Man-made object orbiting Earth, used for communication and observation.",
+      "Sputnik was the first artificial one.",
+      "Natural ones include moons orbiting planets."
+    ]
+  },
+  {
+    "answer": "Interference",
+    "clues": [
+      "Unwanted disruption or distortion of electro-magnetic signals."
+    ]
+  },
+  {
+    "answer": "Gravity",
+    "clues": [
+      "Newton was famous for formulating the laws governing it."
+    ]
+  },
+  {
+    "answer": "Launch",
+    "clues": [
+      "Requires a pad, a countdown, and a lot of fuel."
+    ]
+  },
+  {
+    "answer": "Asteroid",
+    "clues": [
+      "Ceres is the largest known one in our solar system.",
+      "Celestial bodies orbiting the Sun, often found between Mars and Jupiter."
+    ]
+  },
+  {
+    "answer": "Thales",
+    "clues": [
+      "Ancient Greek philosopher and mathematician, but also a French company.",
+      "A titan in defense, space, and security, or an ancient philosopher."
+    ]
+  },
+  {
+    "answer": "Boeing",
+    "clues": [
+      "American multinational that designs, manufactures, and sells airplanes, rotorcraft, rockets, and satellites.",
+      "One of its airplanes is named after a large bird of prey. Another one had a falling door."
+    ]
+  },
+  {
+    "answer": "Airbus",
+    "clues": [
+      "A European multinational aerospace corporation, which manufactures everything from passenger jets to space launch vehicles."
+    ]
+  },
+  {
+    "answer": "Maxar",
+    "clues": [
+      "A company specializing in communication satellites, Earth observation systems, and advanced geospatial solutions."
+    ]
+  },
+  {
+    "answer": "Television",
+    "clues": [
+      "A centerpiece of the modern living room."
+    ]
+  },
+  {
+    "answer": "dish",
+    "clues": [
+      "A shallow container, typically used for cooking or serving food, or a type of antenna."
+    ]
+  },
+  {
+    "answer": "eagle1",
+    "clues": [
+      "A project leading the charge in Europe for secure Quantum Key Distribution (QKD) via a low-earth-orbit satellite, aimed at pioneering next-generation cybersecurity.",
+      "Jointly funded by ESA, the EU, and various European countries, this initiative will employ a dedicated satellite and ground network for validating key quantum communications technologies."
+    ]
+  },
+  {
+    "answer": "yahsat",
+    "clues":[
+      "This Abu Dhabi-based satellite communications company is a subsidiary of Mubadala Investment Company PJSC, offering services across multiple continents including Europe and Asia.",
+      "A leading satellite operator in the Middle East, launched in January 2008, providing secure and reliable satellite communications solutions for government and commercial customers."
+    ]
+  },
+  {
+    "answer": "kuiper",
+    "clues":[
+      "Home to Pluto and many other dwarf planets, it shares its name with a 20th-century Dutch astronomer.",
+      "Not just a belt, but a project aiming to net the sky."
+    ]
+  },
+  {
+    "answer": "amazon",
+    "clues": [
+      "The world's largest rainforest, or a giant in e-commerce.",
+      "Named after female warriors of Greek mythology, it's both a river and a global marketplace.",
+      "A company known for its e-commerce platform, cloud services, and ambitious space ventures."
+    ]
+  },
+  {
+    "answer": "bezos",
+    "clues": [
+      "Entrepreneur who took a suborbital spaceflight in July 2021.",
+      "He ventured from e-commerce to space."
+    ]
+  },
+  {
+    "answer": "NewGlenn",
+    "clues": [
+      "Blue Origin's bet for heavy-lift capabilities.",
+      "Launch vehicle named after the first American to orbit Earth."
+    ]
+  },
+  {
+    "answer": "Artemis",
+    "clues": [
+      "NASA program aiming to return humans to the Moon.",
+      "NASA program named after Apollo's twin sister."
+    ]
+  },
+  {
+    "answer": "Explorer",
+    "clues": [
+      "America's first satellite, launched in 1958."
+    ]
+  },
+  {
+    "answer": "Apollo",
+    "clues": [
+      "NASA program that landed humans on the Moon."
+    ]
+  },
+  {
+    "answer": "Curiosity",
+    "clues": [
+      "NASA rover exploring Mars, that landed in 2012."
+    ]
+  },
+  {
+    "answer": "Sojourner",
+    "clues": [
+      "The first rover to explore Mars. Landed in 1997."
+    ]
+  },
+  {
+    "answer": "Landsat",
+    "clues": [
+      "NASA's Earth observation satellite series."
+    ]
+  },
+  {
+    "answer": "Webb",
+    "clues": [
+      "Next-generation space telescope launched in 2021.",
+      "Successor to the Hubble Space Telescope."
+    ]
+  },
+  {
+    "answer": "Kepler",
+    "clues": [
+      "Space telescope designed to find Earth-like planets."
+    ]
+  },
+  {
+    "answer": "ISS",
+    "clues": [
+      "Orbiting multinational laboratory."
+    ]
+  },
+  {
+    "answer": "Starship",
+    "clues": [
+      "SpaceX's next-generation spacecraft, designed for Mars' colonization.",
+      "SpaceX's fully reusable spacecraft, aiming to revolutionize space travel."
+    ]
+  },
+  {
+    "answer": "space",
+    "clues": [
+      "The Final Frontier according to Captain Kirk.",
+      "Not just a key on your keyboard, but also the cosmos' vast expanse."
+    ]
+  },
+  {
+    "answer": "earth",
+    "clues": [
+      "Planet saved from aliens by Will Smith in '96.",
+      "Third rock from the sun, not just a '90s sitcom.",
+      "The blue marble."
+    ]
+  },
+  {
+    "answer": "star",
+    "clues": [
+      "Celestial celebrities.",
+      "A massive, luminous sphere of plasma held together by gravity.",
+      "They guide sailors."
+    ]
+  },
+  {
+    "answer": "link",
+    "clues": [
+      "The invisible thread between Earth and space."
+    ]
+  },
+  {
+    "answer": "Data",
+    "clues": [
+      "Information's silent messenger."
+    ]
+  },
+  {
+    "answer": "Burst",
+    "clues": [
+      "Data's sudden sprint."
+    ]
+  },
+  {
+    "answer": "Photon",
+    "clues": [
+      "Light's mischievous messenger.",
+      "Fundamental particle of electromagnetic radiation."
+    ]
+  },
+  {
+    "answer": "Falcon",
+    "clues": [
+      "A series of rockets developed by SpaceX for space exploration.",
+      "A bird of prey, or a spacecraft designed to soar."
+    ]
+  },
+  {
+    "answer": "zenith",
+    "clues": [
+      "Directly overhead."
+    ]
+  },
+  {
+    "answer": "nadir",
+    "clues": [
+      "Directly underneath."
+    ]
+  },
+  {
+    "answer": "europe",
+    "clues": [
+      "A band that's final in countdowns."
+    ]
+  },
+  {
+    "answer": "iris2",
+    "clues": [
+      "Multi-orbit and european."
+    ]
+  },
+  {
+    "answer": "electric",
+    "clues": [
+      "Propulsion system of O3b mPOWER satellites."
+    ]
+  },
+  {
+    "answer": "FCC",
+    "clues": [
+      "US regulatory body for communications.",
+      "The U.S. regulator of communications, from airwaves to internet."
+    ]
+  },
+  {
+    "answer": "GPS",
+    "clues": [
+      "It guides our sailors, but it is not a star."
+    ]
+  },
+  {
+    "answer": "ariane",
+    "clues": [
+      "ESA rocket family."
+    ]
+  },
+  {
+    "answer": "cband",
+    "clues": [
+      "Spectrum range repurposed for 5G mobile broadband services by the FCC.",
+      "SES elected to clear a portion of this spectrum in the US for 5G deployment."
+    ]
+  },
+  {
+    "answer": "jio",
+    "clues": [
+      "Indian telco involved in a joint venture with SES for broadband services.",
+      "A major player in the Indian telecommunications market."
+    ]
+  },
+  {
+    "answer": "kourou",
+    "clues": [
+      "Site where SES launched four O3b medium Earth orbit satellites in April 2019.",
+      "Location of the CSG, a major spaceport."
+    ]
+  },
+  {
+    "answer": "mpower",
+    "clues": [
+      "SES's satellite system promising high-speed connectivity from medium Earth orbit."
+    ]
+  },
+  {
+    "answer": "deluxe",
+    "clues": [
+      "Munich-based provider of music and travel channels via Astra 19.2°E satellites."
+    ]
+  },
+  {
+    "answer": "kcell",
+    "clues": [
+      "Mobile network operator in Kazakhstan partnering with SES for connectivity solutions.",
+      "Kazakhstani operator showcasing reliable video calling and streaming services with SES."
+    ]
+  },
+  {
+    "answer": "verizon",
+    "clues": [
+      "A major american player in telecommunications, partnering with SES for spectrum allocation."
+    ]
+  },
+  {
+    "answer": "orange",
+    "clues": [
+      "European mobile network operator exploring partnerships with SES for enhanced services.",
+      "French telecommunications company exploring satellite partnerships with SES."
+    ]
+  }
+]
+
